@@ -4,11 +4,11 @@
 Project created during the [@Rocketseat](https://www.rocketseat.com.br/) Ignite course.
   
 #### --- Features ---
-- Google and Apple login.
-- Add transactions.
-- List transactions.
-- Check summaries.s
-- Find reports and expenses charts.
+- List our products.
+- Add to cart.
+- View cart.
+- Edit cart.
+- Complete the transaction and enjoy.
 
 
 # Screenshots
